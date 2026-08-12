@@ -4,4 +4,4 @@ Projeto final da disciplina Linguagem de Programação Python aplicada à Análi
 
 O estudo feito em Jupyter Notebook com as bibliotecas Python pandas, numpy, seaborn, matplotlib e plotly, utiliza a base de dados do Letterboxd para exibir os top 50 filmes mais favoritados, assistidos e curtidos pelos usuários da plataforma.
 
-![image](https://github.com/user-attachments/assets/d9d3ef6f-f6da-45f5-8f0a-d4edc7e5d70e)
+![image](https://github.com/user-attachments/assets/e6dae6a9-be10-4237-b81b-c848efc79c39)
